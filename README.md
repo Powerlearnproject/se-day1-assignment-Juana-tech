@@ -1,4 +1,4 @@
-In [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373557&assignment_repo_type=AssignmentRepo)
+IIn [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373557&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -53,8 +53,27 @@ Appropriate scenario
 Agile ideal for projects where requirements are expected to change frequently or are not well-defined at the start.
 This includes startup environments or product development scenarios where rapid iteration and user feedback are essential.
 For example developing a mobile application that aims to capture user feedback and adapt features frequently will greatly benefit from agile methodology.
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Comparison
+1.Structure
+waterfall is linear and structured while agile is flexible and iterative.
+2.Adaptability
+waterfall is less adaptable to change whereas agile embraces change and encourages ongoing stakeholder input.
+3.Feedback Loop
+waterfall typically involves a single feedback loop at the end of the development cycle while agile incorporates regular feedback throughout the process.
+4.Documentation
+waterfall emphasizes comprehensive documentation while agile Focuses on working software and collaboration.
 
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+1.Software Developer
+a) developers collaborate with other team members to understand project requirements and translate them to functional software.
+b) they stay updated on the latest technologies and practices to improve their skills and the software they create.
+2. Quality Awareness Engineer
+   a) Focuses on the quality assurance process within the software development life cycle life cycle.
+   b) they promote quality best practices within the team advocating automated testing and continuous integration to enhance efficiency and reliability.
+   Project Manager
+   a) are responsible for defining project goals, developing project plans and coordinating resources among team members.
+   b) they communicate with stakeholders to gather requirements and provide updates on progress, managing expectations throughout the Project Life Cycle
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 

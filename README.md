@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373557&assignment_repo_type=AssignmentRepo)
+In [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373557&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -13,8 +13,9 @@ c] It provides frameworks for managing changes systematically ensuring that soft
 d] It encourages collaboration among multidisciplinary teams. 
 e] By adhering to software engineering principles, organizations can better manage project costs. 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
-
+ 1. **The Birth of Software Engineering (1968)**: The term "software engineering" was first officially used during the NATO Software Engineering Conference held in Garmisch, Germany. This conference aimed to address the growing complexity of software systems and the need for better methodologies and practices. It highlighted the necessity of treating software development as a disciplined engineering practice, leading to the establishment of software engineering as a distinct field of study and professional practice.
+2. **The Introduction of Structured Programming (1970s)**: The development of structured programming in the 1970s represented a significant shift in software design and development. Pioneered by figures such as Edsger Dijkstra, structured programming focused on improving the clarity and efficiency of code through the use of control structures like loops and conditionals, rather than using the arbitrary jumps of earlier programming techniques. This approach led to better-organized code, reduced complexity, and improved maintainability, laying the groundwork for modern programming practices.
+3. **The Agile Manifesto (2001)**: The publication of the Agile Manifesto marked a revolutionary change in software development practices. Created by a group of software developers, the manifesto emphasized principles such as customer collaboration, responding to change, and valuing individuals and interactions over processes and tools. This led to the widespread adoption of Agile methodologies, which promote iterative development, flexibility, and a focus on delivering functional software quickly. Agile practices have since transformed how teams approach software projects, fostering environments that adapt to changing requirements and encourage continuous improvement. These milestones illustrate the ongoing evolution of software engineering, reflecting the profession's growing complexity and the need for new methodologies to address the challenges of software development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Planning

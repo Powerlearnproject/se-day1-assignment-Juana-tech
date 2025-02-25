@@ -40,8 +40,19 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
-
+1. Waterfall Methodologies
+   Waterfall is a linear sequential approach to software development.
+   Each phase must be completed before the next one begins and there is little room for revisiting previous phases.
+   The phase typically includes requirement analysis,design implementation, testing, deployment and Maintenance.
+Appropriate scenario
+waterfall is suitable for projects with fixed requirements and a clear path to completion such as government projects or large scale systems in Industries like Healthcare or Aerospace.
+2. Agile methodology
+Agile is an iterative and incremental approach to software development.
+It emphasizes flexibility, collaboration and customer feedback throughout the development process.
+Appropriate scenario
+Agile ideal for projects where requirements are expected to change frequently or are not well-defined at the start.
+This includes startup environments or product development scenarios where rapid iteration and user feedback are essential.
+For example developing a mobile application that aims to capture user feedback and adapt features frequently will greatly benefit from agile methodology.
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 

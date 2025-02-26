@@ -1,4 +1,4 @@
-IIn [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373557&assignment_repo_type=AssignmentRepo)
+KIIn [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373557&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -115,12 +115,38 @@ performance.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing 
+Tests individual software components in isolation
+Verifies that each component functions correctly
+Helps detect and fix defects early in development
+Integration testing 
+Combines software units into a group to test how they work together
+Finds interface defects between modules
+Ensures that different parts of the software work together seamlessly
+System testing 
+Evaluates the software system as a whole to ensure it meets requirements
+Conducted after integration testing
+Acceptance testing
+Ensures that the software meets the end user's needs and business criteria 
+The last phase of functional testing 
+User acceptance testing (UAT) is the final and most critical phase before release 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+helps AI models produce accurate, relevant, and useful outputs. It's a key part of effective communication between humans and AI. 
+Importance
+Improves model performance
+Prompt engineering helps AI models understand user inputs and generate more relevant responses. 
+Improves decision making
+Prompt engineering helps businesses extract actionable intelligence from large amounts of data. 
+Mitigates bias
+Prompt engineering can help reduce bias that may be present in the training data of large language models. 
+Enhances user experience
+Prompt engineering can help AI models provide more meaningful and engaging responses. 
+Bridges the gap between AI and human intent
+Prompt engineering helps humans effectively communicate their goals to AI systems. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt-Explain marketing strategies.” Better Prompt: “List and explain five digital marketing strategies used for e-commerce businesses.” By specifying “five strategies” and focusing on “e-commerce businesses”, the AI model generates more relevant and detailed responses.
